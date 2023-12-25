@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-lab1intel.iml/
+lab1intel.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
